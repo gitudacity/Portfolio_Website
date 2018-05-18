@@ -1,0 +1,23 @@
+body {
+  margin-left: 280px;
+  margin-right: 100px;
+}
+header {
+  border-bottom: 5px solid #9E9E9E;
+  height: 100px;
+}
+.name {
+  font-size: 60px;
+  font-weight: lighter;
+  margin-left: 140px;
+  font-family: monospace:
+}
+.occupation {
+  font-size: 30px;
+  font-variant-caps: small-caps;
+  margin-left: 140px;
+  font-family: monospace;
+}
+.image {
+  margin-top: 40px;
+}
