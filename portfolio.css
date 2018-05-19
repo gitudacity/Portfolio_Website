@@ -2,22 +2,28 @@ body {
   margin-left: 280px;
   margin-right: 100px;
 }
+/*--Header--*/
 header {
   border-bottom: 5px solid #9E9E9E;
   height: 100px;
 }
 .name {
-  font-size: 60px;
-  font-weight: lighter;
   margin-left: 140px;
   font-family: monospace:
 }
-.occupation {
-  font-size: 30px;
-  font-variant-caps: small-caps;
-  margin-left: 140px;
-  font-family: monospace;
+.logo {
+  float: left;
+  position: relative;
+  top: 40px;
 }
 .image {
   margin-top: 40px;
 }
+/*--main--*/
+.section_a {
+  width: 800px;
+  height:300px;
+  float: right;
+}
+/*--Footer--*/
+.section_b{}
