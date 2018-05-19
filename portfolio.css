@@ -1,1 +1,46 @@
+body {
+  height: auto;
+  width: 100%;
+}
+header {
+  height: 150px;
+  border-bottom: solid 1px black;
+  clear: both;
 
+}
+.owner {
+  width: 400px;
+  height: 200px;
+  position: relative;
+  bottom: 25px;
+  float: right;
+}
+.logo {
+  width: 60px;
+  height: 60px;
+  position: relative;
+  top: 90px;
+}
+section {
+  position: relative;
+  width: 100%;
+  height: 400px;
+}
+.coding_image {
+  width: 100%;
+  height: 200px;
+  position: absolute;
+  top: 10px;
+}
+.featured_work {
+  color: grey;
+}
+.project {
+  display:inline-block;
+  margin: 10px;
+}
+.caption {
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
